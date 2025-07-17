@@ -9,3 +9,4 @@ Consulter le dossier profil afin d'y trouver:
 A venir:
 -Mon parcours
 -Questions recruteur
+-Mes qualités et défauts
