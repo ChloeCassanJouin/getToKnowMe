@@ -24,14 +24,24 @@ Aujourd’hui, je cherche à intégrer une équipe technique ou une alternance p
 ## 🎓 Autres formations
 
 - **BTS Assistant Manager** – IGS CIEFA (2010-2012) en alternance chez Plastic Omnium – secteur automobile  
-- **Licence Anglais** – Université Stendhal (2005-2008) + 1 an Erasmus à l’université d’Édimbourg
+- **Licence Anglais** – Université Stendhal (2005-2008) + 1 an Erasmus à l’université d’Édimbourg en Ecosse.
 
 ---
 
 ## 🧳 Expérience professionnelle (avant reconversion)
 
-- **Assistante administration des ventes internationales** (2015–2022) chez CAPFRUIT et Drome Cailles  
-  Missions : gestion export, facturation, relations clients, paramétrage Sage, responsable EDI
+- **Assistante administration des ventes internationales
+     - 8 ans d'expérence:
+       -gestion EDI (commande dématérialisée avec Super U au national)
+       -gestion commande, litige
+       -gestion export
+       -logistique
+       -facturation
+       -relations clients
+       -promotion de produits
+       -démarchage
+       -paramétrage logiciel commercial Sage
+       -gestion standard téléphonique et physique
 
 ---
 
@@ -48,7 +58,7 @@ Aujourd’hui, je cherche à intégrer une équipe technique ou une alternance p
 
 ## 🎯 Objectif actuel
 
-Je suis disponible de suite et souhaite intégrer un poste ou une alternance dans le développement front-end, au sein d'une équipe bienveillante, avec des projets qui ont du sens.  
+Je suis disponible de suite et souhaite intégrer un poste ou une alternance dans le développement, au sein d'une équipe bienveillante, avec des projets qui ont du sens.  
 Je poursuis activement ma montée en compétences avec des projets personnels, une veille technique et des ressources pédagogiques.
 
 📫 **Contact** : chloecassanjouin@gmail.com  
