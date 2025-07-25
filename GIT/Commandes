@@ -7,3 +7,9 @@
   f-taper code . pour ouvrir le VS Code de ce dossier
 
 2-ouvrir une nouvelle occurence GIT?
+
+3-Circuler dans les dossier
+  cd nomdufichier/dossier
+  cd .. remonter dans le dossier
+  cd ../.. remonter plus loin dans le dossier
+  ls voir le contenu
