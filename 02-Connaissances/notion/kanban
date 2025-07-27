@@ -1,2 +1,7 @@
 1-/tableau => "vue kanban" base de données (on obtient un tableau avec 3 colonnes, A faire, commencé, terminé)
-2-
+2-paramètre / disposition / vue table
+3-clic sur "Pas commencé" dans état / modifier la propriété (rajouter de nouvelle propriété (alias colonne kanban), "A FAIRE" "EN ATTENTE DE REPONSE" etc.... mettre la colonne souhaitée par defaut - masquer certaines colonnes,
+supprimer la priorité etc...
+4-rajouter des propriétés (date de deadline (début et fin) - (personne en charge ou en lien) - domaine "Developpement" "réunion" "projet 1"....
+5-penser à faire une ligne par tâche avec le domaine dans propriétés et non l'inverse. Exemple: titre "définir le dérouler du sprint - propriété "JouinCashFlow-supabase"
+  -dans table, créer une nouvelle colonne avec titre "DOMAINE". cliquer sur "modifier le type" - choisir "selection multiple" - créer les noms des projets et le rajouter comme filtre
