@@ -1,0 +1,58 @@
+# 🖥️ Apprentissage COBOL – auto-formation
+
+## 🎯 Objectif
+Comprendre les bases du COBOL et du Mainframe pour être opérationnelle dans un contexte pro. 
+Apprendre en autonomie avec les cours de mon mari Développeur Cobol CATS Annecy + un émulateur local.
+
+---
+
+## 📅 JOUR 1 – Démarrage
+
+### 🔹 État initial
+- J’ai un émulateur mainframe installé
+- J’ai accès aux cours de formation COBOL de mon mari
+- J’ai envie de coder mais je ressens du blocage / de la peur / du flou
+- Mon objectif est de **rentrer dans le sujet sans chercher la perfection**
+
+---
+
+### 📘 Ce que j’ai lu / exploré
+- [ ] Présentation de COBOL
+- [ ] Différence COBOL / Mainframe / zOS
+- [ ] Historique rapide
+- [ ] Structure d’un programme COBOL
+
+---
+
+### 💻 Ce que j’ai fait techniquement
+- [ ] Lancer l’émulateur
+- [ ] Créer mon premier fichier COBOL (`hello.cbl`)
+- [ ] Écrire un programme “Hello world”
+- [ ] Le compiler (ou comprendre pourquoi ça plante)
+- [ ] L’exécuter / observer le résultat
+
+---
+
+### 🧠 Ce que j’ai compris
+> Note ici ce que tu retiens avec tes mots :  
+> ex : "un programme COBOL se découpe en 4 divisions",  
+> ou "le `DISPLAY` équivaut à un `console.log` en JS"
+
+---
+
+### 📌 Problèmes rencontrés
+- À noter ici pour que je puisse t’aider ensuite.
+
+---
+
+### ✅ Ce que j’ai validé aujourd’hui
+- [ ] Avoir dépassé l'inertie
+- [ ] Être entrée dans le code COBOL
+- [ ] Avoir une trace écrite de ma progression
+
+---
+
+## 🚀 Prochaines étapes
+- Continuer les cours dans l’ordre
+- Essayer un programme avec des `IF` / `PERFORM`
+- Comprendre la `DATA DIVISION` en profondeur
