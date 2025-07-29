@@ -57,3 +57,11 @@
 > Est-ce que TK4- est déjà installé et je ne l’ai simplement pas trouvé ?  
 > Ou dois-je télécharger le pack complet `tk4-_cws_edition.zip` préconfiguré avec wc3270 ?  
 (*Risque de doublon ?*)
+
+### 📌 À faire demain (Jour 3)
+- Vérifier avec Jérémie où se trouve le pack TK4- sur mon poste
+- Si nécessaire : installer la version complète `tk4-_cws_edition.zip`
+- Étudier la documentation COBOL (bases du langage, structure d’un programme)
+- Lire la documentation de l’émulateur (TK4- / Hercules / wc3270)
+- Préparer le premier test : structure d’un programme COBOL + son JCL associé (Hello World)
+- Planifier les étapes pour compiler et exécuter dans l’émulateur
