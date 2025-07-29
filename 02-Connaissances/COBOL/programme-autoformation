@@ -9,64 +9,75 @@
 
 ## 📅 Jour 1
 
-### 🔍 Démarrage
-- Découverte de la documentation COBOL et Mainframe
-- Exploration des dossiers disponibles
-- Copie/colle de contenus texte dans un fichier personnel pour un accès rapide
-- Lecture rapide pour identifier les grandes étapes du parcours de formation
-
-### ❓ Question en suspens
-> Comment définir l’ordre d’apprentissage dans un bloc de documentation dense ?  
-(*Créer une stratégie de lecture progressive ? Hiérarchiser ? Visualiser ? À approfondir.*)
+      ### 🔍 Démarrage
+      - Découverte de la documentation COBOL et Mainframe
+      - Exploration des dossiers disponibles
+      - Copie/colle de contenus texte dans un fichier personnel pour un accès rapide
+      - Lecture rapide pour identifier les grandes étapes du parcours de formation
+      
+      ### ❓ Question en suspens
+      > Comment définir l’ordre d’apprentissage dans un bloc de documentation dense ?  
+      (*Créer une stratégie de lecture progressive ? Hiérarchiser ? Visualiser ? À approfondir.*)
 
 ---
 
 ## 📅 Jour 2
 
-### 🧠 Lecture & compréhension du contexte bancaire
-- Présentation générale du fonctionnement du secteur bancaire
-- Découverte des outils et de leur rôle dans le SI (système d'information)
+      ### 🧠 Lecture partielle & compréhension du contexte bancaire
+      - Présentation générale du fonctionnement du secteur bancaire
+      - Découverte des outils et de leur rôle dans le SI (système d'information)
+      
+      ### 📚 Constitution d’un lexique personnel avec définitions professionnelles (via ChatGPT)
+      - COBOL
+      - COBOL OP
+      - Dépôt GitLab
+      - MFED
+      - Branches Git / gestion de dépôt (pull, clone, remote add, `git fetch --all`)
+      - Vue Project Explorer dans un IDE
+      - Générateur Pacbase
+      - Patrimoine Pacbase et TNR associés
+      - Patrimoine COBOL natif
+      - IDE Micro Focus Enterprise Developer + plugin z/OS
+      - Eclipse
+      - DB2
+      
+      > Objectif : disposer de références compréhensibles à tout moment pour m’approprier le vocabulaire professionnel du CATS.
+      
+      ### 🧭 Visualisation
+      - Génération d’une **carte mentale** du **Système d’Information (SI)** avec focus sur PACBASE et son rôle
+      
+      ### 💻 État des lieux de l’environnement local
+      - Lancement de **WC3270**, tentative de connexion à z/OS via Hercules
+      - Diagnostic :
+        - WC3270 fonctionne ✔️
+        - z/OS non lancé ❌ (setup TK4- manquant ou non identifié)
+        - Présence d’outils séparés (Hercules, wc3270, fichiers `.7z`), mais pas d’environnement intégré prêt à l’emploi
+      
+      ### ❓ Question à poser (à Jérémie)
+      > Est-ce que TK4- est déjà installé et je ne l’ai simplement pas trouvé ?  
+      > Ou dois-je télécharger le pack complet `tk4-_cws_edition.zip` préconfiguré avec wc3270 ?  
+      (*Risque de doublon ?*)
+      
+      ### 💻 test premier code sur COBOL ONLINE COMPILER - afin de compenser émulateur non disponible
+              Parfait, d'après ChatGPT pour valider la syntaxe COBOL et progresser sans l'émulateur Hercules.
+                  ⚠️ Ce que tu ne peux pas faire avec OneCompiler :
+                  -Gérer des fichiers (READ/WRITE)
+                  -Simuler un traitement batch avec JCL
+                  -Utiliser des outils comme CICS, DB2, PACBASE, Jenkins, etc.
+                  -Travailler sur un dataset mainframe ou une structure ISPF
+      
+      ### 💻 Visionnage de la vidéo youtube anglophone "COBOL Tutorial : Learn COBOL in One Video" https://www.youtube.com/watch?v=TBs7HXI76yU&t=1s
+      
+      ### 📌 À faire demain (Jour 3)
+      - continuer lecture
+      - Vérifier avec Jérémie où se trouve le pack TK4- sur mon poste
+      - Si nécessaire : installer la version complète `tk4-_cws_edition.zip`
+      - Étudier la documentation COBOL (bases du langage, structure d’un programme)
+      - Lire la documentation de l’émulateur (TK4- / Hercules / wc3270)
+      - Préparer le premier test : structure d’un programme COBOL + son JCL associé (Hello World)
+      - Planifier les étapes pour compiler et exécuter dans l’émulateur
+      - visionner des vidéos sur: COBOL Tutorial / COBOL Advanced / Hercules Installation / TK4 en image / Terminal TK4 Session
 
-### 📚 Constitution d’un lexique personnel avec définitions professionnelles (via ChatGPT)
-- COBOL
-- COBOL OP
-- Dépôt GitLab
-- MFED
-- Branches Git / gestion de dépôt (pull, clone, remote add, `git fetch --all`)
-- Vue Project Explorer dans un IDE
-- Générateur Pacbase
-- Patrimoine Pacbase et TNR associés
-- Patrimoine COBOL natif
-- IDE Micro Focus Enterprise Developer + plugin z/OS
-- Eclipse
-- DB2
+---
 
-> Objectif : disposer de références compréhensibles à tout moment pour m’approprier le vocabulaire professionnel du CATS.
-
-### 🧭 Visualisation
-- Génération d’une **carte mentale** du **Système d’Information (SI)** avec focus sur PACBASE et son rôle
-
-### 💻 État des lieux de l’environnement local
-- Lancement de **WC3270**, tentative de connexion à z/OS via Hercules
-- Diagnostic :
-  - WC3270 fonctionne ✔️
-  - z/OS non lancé ❌ (setup TK4- manquant ou non identifié)
-  - Présence d’outils séparés (Hercules, wc3270, fichiers `.7z`), mais pas d’environnement intégré prêt à l’emploi
-
-### ❓ Question à poser (à Jérémie)
-> Est-ce que TK4- est déjà installé et je ne l’ai simplement pas trouvé ?  
-> Ou dois-je télécharger le pack complet `tk4-_cws_edition.zip` préconfiguré avec wc3270 ?  
-(*Risque de doublon ?*)
-
-### 💻 test premier code sur COBOL ONLINE COMPILER - afin de compenser émulateur non disponible
-
-### 💻 Visionnage de la vidéo youtube anglophone "COBOL Tutorial : Learn COBOL in One Video" https://www.youtube.com/watch?v=TBs7HXI76yU&t=1s
-
-### 📌 À faire demain (Jour 3)
-- Vérifier avec Jérémie où se trouve le pack TK4- sur mon poste
-- Si nécessaire : installer la version complète `tk4-_cws_edition.zip`
-- Étudier la documentation COBOL (bases du langage, structure d’un programme)
-- Lire la documentation de l’émulateur (TK4- / Hercules / wc3270)
-- Préparer le premier test : structure d’un programme COBOL + son JCL associé (Hello World)
-- Planifier les étapes pour compiler et exécuter dans l’émulateur
-- visionner des vidéos sur: COBOL Tutorial / COBOL Advanced / Hercules Installation / TK4 en image / Terminal TK4 Session
+## 📅 Jour 3
