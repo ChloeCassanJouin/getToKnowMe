@@ -1,47 +1,59 @@
-# 🖥️ Journal auto-formation COBOL & Mainframe
+# 🖥️ Journal d’auto-formation COBOL & Mainframe
 
-## 🎯 Objectif
--savoir lire et expliquer du code COBOL.
+## 🎯 Objectifs
+- Savoir lire et expliquer du code COBOL
+- Savoir écrire un programme simple (lecture de fichier, calcul, écriture…)
+- Comprendre le fonctionnement d’un batch, d’un écran CICS ou d’un traitement mainframe
 
--savoir écrire un programme simple (lecture de fichier, calcul, écriture…).
-
--comprendre le fonctionnement d’un batch, d’un écran CICS ou d’un traitement.
-
------------
+---
 
 ## 📅 Jour 1
 
-          #Découverture de la documentation, ouverture des dossiers, copie colle des fichiers TEXTE dans un nouveau fichier pour acces rapide
-          #lecture rapide pour distinguer les étapes
+### 🔍 Démarrage
+- Découverte de la documentation COBOL et Mainframe
+- Exploration des dossiers disponibles
+- Copie/colle de contenus texte dans un fichier personnel pour un accès rapide
+- Lecture rapide pour identifier les grandes étapes du parcours de formation
 
-          Question: Comment définir ordre d'apprentissage dans une bloc de documentation?
+### ❓ Question en suspens
+> Comment définir l’ordre d’apprentissage dans un bloc de documentation dense ?  
+(*Créer une stratégie de lecture progressive ? Hiérarchiser ? Visualiser ? À approfondir.*)
 
------------
+---
 
-## 📅 JOUR 2  
+## 📅 Jour 2
 
-          #Lecture de la présentation générale du milieu bancaire, des outils et leur fonction.
+### 🧠 Lecture & compréhension du contexte bancaire
+- Présentation générale du fonctionnement du secteur bancaire
+- Découverte des outils et de leur rôle dans le SI (système d'information)
 
-          #Création Liste du lexique de base pour avoir définitions professionnelles à porter de main et vulgarisation via ChatGPT
-                    -Cobol                    
-                    -Dépôt Gitlab
-                    -MFED
-                    -Fonctionnement branches Git / gestion Dépôt (rapatrier pull, cloner, ajouter remote add, cloner toutes les branches git fetch-all)
-                    -Vue Projet Explorer dans IDE
-                    -Cobol definition
-                    -Cobol OP
-                    -Générateur Pacbase
-                    -Patrimoine Pacbase et TNR Associés
-                    -Patrimoine Cobol natif
-                    -IDE Microfocus Entreprise Developer + plugin (interface)
-                    -Eclipse 
-                    -DB2
+### 📚 Constitution d’un lexique personnel avec définitions professionnelles (via ChatGPT)
+- COBOL
+- COBOL OP
+- Dépôt GitLab
+- MFED
+- Branches Git / gestion de dépôt (pull, clone, remote add, `git fetch --all`)
+- Vue Project Explorer dans un IDE
+- Générateur Pacbase
+- Patrimoine Pacbase et TNR associés
+- Patrimoine COBOL natif
+- IDE Micro Focus Enterprise Developer + plugin z/OS
+- Eclipse
+- DB2
 
-          #Génération carte mentale SI PACBASE via ChatGPT
+> Objectif : disposer de références compréhensibles à tout moment pour m’approprier le vocabulaire professionnel du CATS.
 
-          #Lancer WC3270, connecté au système z/OS via l’émulateur Hercules. Trouver les bonnes entrées. J'ai l’émulateur WC3270, mais pas encore le bon setup complet pour faire tourner z/OS via Hercules (TK4-).
-          J'ai les outils séparés, mais pas un environnement prêt à l’emploi
+### 🧭 Visualisation
+- Génération d’une **carte mentale** du **Système d’Information (SI)** avec focus sur PACBASE et son rôle
 
-          Question: Téléchargement pack officiel TK4- préconfiguré avec wc3270 ou risque doublon si je n'ai juste pas trouver? (demander à Jeremie)
-                    En attendant étudier la théorie et la doucmentation émulateur pour etre prête quand outils installés.
+### 💻 État des lieux de l’environnement local
+- Lancement de **WC3270**, tentative de connexion à z/OS via Hercules
+- Diagnostic :
+  - WC3270 fonctionne ✔️
+  - z/OS non lancé ❌ (setup TK4- manquant ou non identifié)
+  - Présence d’outils séparés (Hercules, wc3270, fichiers `.7z`), mais pas d’environnement intégré prêt à l’emploi
 
+### ❓ Question à poser (à Jérémie)
+> Est-ce que TK4- est déjà installé et je ne l’ai simplement pas trouvé ?  
+> Ou dois-je télécharger le pack complet `tk4-_cws_edition.zip` préconfiguré avec wc3270 ?  
+(*Risque de doublon ?*)
