@@ -39,7 +39,9 @@
 
           #Génération carte mentale SI PACBASE via ChatGPT
 
-          #Ouverture émulateur Hercules 4.5.0.1... WC3270... z/OS...
+          #Lancer WC3270, connecté au système z/OS via l’émulateur Hercules. Trouver les bonnes entrées. J'ai l’émulateur WC3270, mais pas encore le bon setup complet pour faire tourner z/OS via Hercules (TK4-).
+          J'ai les outils séparés, mais pas un environnement prêt à l’emploi
 
-          Question: 
+          Question: Téléchargement pack officiel TK4- préconfiguré avec wc3270 ou risque doublon si je n'ai juste pas trouver? (demander à Jeremie)
+                    En attendant étudier la théorie et la doucmentation émulateur pour etre prête quand outils installés.
 
