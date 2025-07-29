@@ -1,32 +1,38 @@
 # 🖥️ Journal auto-formation COBOL & Mainframe
 
 ## 🎯 Objectif
-Comprendre les bases du COBOL et du Mainframe pour être opérationnelle dans un contexte pro. 
-Apprendre en autonomie.
+-savoir lire et expliquer du code COBOL.
+
+-savoir écrire un programme simple (lecture de fichier, calcul, écriture…).
+
+-comprendre le fonctionnement d’un batch, d’un écran CICS ou d’un traitement.
 
 -----------
 
-## 📅 Jour 1 – Démarrage
+## 📅 Jour 1
 
-          ### Objectifs
-          - Lancer un environnement mainframe émulé (Hercules + TK4- + WC3270)
-          - Lire les premiers modules de cours COBOL (exercices, théories, corrigés)
-          
-          ### Concepts nouveaux repérés
-          - Architecture typique : décompositions des dépôts COBOL
-            - `Zcobol` → programmes COBOL + copybooks
-            - `Zcopy` → copybooks partagés
-            - `Zbms` → écrans BMS
-          - Outils utilisés : GitLab (interface graphique), Jenkins (CI/CD), éditeurs COBOL
-          
-          ### Difficultés rencontrées
-          - Identifier l'ordre logique de progression dans les dossiers de cours
-          - Décoder la structure de projet COBOL typique (composants, dépendances)
-          
-          ### Prochaines étapes
-          - Faire tourner un programme COBOL simple dans l’émulateur
-          - Comprendre la structure d’un job JCL minimal
+          #Découverture de la documentation, ouverture des dossiers, copie colle des fichiers TEXTE dans un nouveau fichier pour acces rapide
+          #lecture rapide pour distinguer les étapes
+
+          Question: Comment définir ordre d'apprentissage dans une bloc de documentation?
 
 -----------
 
-## 📅 JOUR 2 – ?
+## 📅 JOUR 2  
+
+          #Lecture de la présentation générale du milieu bancaire, des outils et leur fonction.
+
+          #Création Liste du lexique de base pour avoir définitions professionnelles à porter de main et vulgarisation via ChatGPT
+                    -Dépôt Gitlab
+                    -MFED
+                    -Fonctionnement branches Git / gestion Dépôt (rapatrier pull, cloner, ajouter remote add, cloner toutes les branches git fetch-all)
+                    -Vue Projet Explorer dans IDE
+                    -Cobol definition
+                    -Cobol OP
+                    -Générateur Pacbase
+                    -Patrimoine Pacbase et TNR Associés
+                    -Patrimoine Cobol natif
+
+
+          Question: 
+
