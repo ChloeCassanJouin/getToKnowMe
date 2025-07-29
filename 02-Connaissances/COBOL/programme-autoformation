@@ -23,6 +23,7 @@
           #Lecture de la présentation générale du milieu bancaire, des outils et leur fonction.
 
           #Création Liste du lexique de base pour avoir définitions professionnelles à porter de main et vulgarisation via ChatGPT
+                    -Cobol                    
                     -Dépôt Gitlab
                     -MFED
                     -Fonctionnement branches Git / gestion Dépôt (rapatrier pull, cloner, ajouter remote add, cloner toutes les branches git fetch-all)
@@ -32,7 +33,13 @@
                     -Générateur Pacbase
                     -Patrimoine Pacbase et TNR Associés
                     -Patrimoine Cobol natif
+                    -IDE Microfocus Entreprise Developer + plugin (interface)
+                    -Eclipse 
+                    -DB2
 
+          #Génération carte mentale SI PACBASE via ChatGPT
+
+          #Ouverture émulateur Hercules 4.5.0.1... WC3270... z/OS...
 
           Question: 
 
