@@ -21,4 +21,3 @@ Bienvenue dans ce journal de bord personnel retraçant mon apprentissage de l’
 - 🛠️ **Éditeur local** : VS Code + extensions COBOL
 - 🧪 **Compilation locale** (optionnelle) : GnuCOBOL
 
-<img width="2840" height="2092" alt="image" src="https://github.com/user-attachments/assets/b6551306-9e45-47e6-b1b8-2334219a9e87" />
