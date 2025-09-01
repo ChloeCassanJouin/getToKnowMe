@@ -1,0 +1,34 @@
+Exemple concrets de projets
+
+REACT
+projet Kasa - application de location immobilière. 
+J’y ai construit une architecture en composants réutilisables, mis en place React Router pour la navigation, 
+et géré les styles avec Sass et des animations CSS. L’objectif était de proposer une expérience 
+utilisateur fluide et responsive.
+
+REDUX
+Dans le projet Argent Bank, une application bancaire, j’ai implémenté Redux pour gérer l’état global 
+de l’application. Cela permettait d’assurer une cohérence entre les données côté front et back. 
+Par exemple, l’authentification JWT et la récupération des transactions passaient par le store Redux, 
+ce qui simplifiait la gestion des utilisateurs.
+
+PRATIQUES OPTIMISATION SEO ET ACCESSIBILITE
+Sur le projet Nina Carducci, j’ai réalisé un audit avec Lighthouse et Wave. 
+J’ai appliqué des recommandations comme la minification des fichiers CSS/JS, la compression Gzip, 
+l’optimisation des images, et l’ajout de balises ARIA pour l’accessibilité. 
+J’ai mesuré l’impact avant/après pour démontrer les gains sur la performance et le référencement.
+
+DEBOGAGE
+J’utilise surtout Chrome DevTools et React Developer Tools. 
+Par exemple, pour le projet 724Events, j’ai corrigé des bugs en inspectant le DOM et les états des composants. 
+J’ai aussi rédigé un cahier de recette avec scénarios de tests pour assurer que les corrections étaient validées.
+
+METHODE AGILE
+Dans plusieurs projets, j’ai utilisé la gestion Kanban (via Trello ou Notion) pour suivre l’avancement. 
+J’ai aussi pratiqué la rédaction de user stories et de spécifications techniques. 
+Cela m’a appris à découper les tâches, à organiser mon travail et à présenter mes choix techniques clairement.
+
+QUALITE DE CODE
+J’essaie de suivre les bonnes pratiques : un code lisible, structuré et commenté. 
+J’ai utilisé Jest pour des tests unitaires simples. 
+Et j’utilise GitHub pour le versionnement et le suivi des modifications.
